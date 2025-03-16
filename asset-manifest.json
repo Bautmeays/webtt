@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/webtt/static/js/main.55872d08.js",
+    "main.js": "/webtt/static/js/main.c6d93322.js",
     "index.html": "/webtt/index.html",
-    "main.55872d08.js.map": "/webtt/static/js/main.55872d08.js.map"
+    "main.c6d93322.js.map": "/webtt/static/js/main.c6d93322.js.map"
   },
   "entrypoints": [
-    "static/js/main.55872d08.js"
+    "static/js/main.c6d93322.js"
   ]
 }
